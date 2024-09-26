@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stmakes.github.io/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/app/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/assets/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/css/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/data/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/includes/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/item/sitemap.stmakes.gz
+Sitemap: https://stmakes.github.io/src/sitemap.stmakes.gz
